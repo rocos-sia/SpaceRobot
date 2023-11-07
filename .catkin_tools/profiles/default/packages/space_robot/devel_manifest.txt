@@ -1,0 +1,8 @@
+space_robot
+/home/k/SpaceRobot/devel/.private/space_robot/cmake.lock /home/k/SpaceRobot/devel/./cmake.lock
+/home/k/SpaceRobot/devel/.private/space_robot/share/space_robot/cmake/space_robotConfig-version.cmake /home/k/SpaceRobot/devel/share/space_robot/cmake/space_robotConfig-version.cmake
+/home/k/SpaceRobot/devel/.private/space_robot/share/space_robot/cmake/space_robotConfig.cmake /home/k/SpaceRobot/devel/share/space_robot/cmake/space_robotConfig.cmake
+/home/k/SpaceRobot/devel/.private/space_robot/lib/pkgconfig/space_robot.pc /home/k/SpaceRobot/devel/lib/pkgconfig/space_robot.pc
+/home/k/SpaceRobot/devel/.private/space_robot/lib/space_robot/test.py /home/k/SpaceRobot/devel/lib/space_robot/test.py
+/home/k/SpaceRobot/devel/.private/space_robot/lib/space_robot/switch_demo.py /home/k/SpaceRobot/devel/lib/space_robot/switch_demo.py
+/home/k/SpaceRobot/devel/.private/space_robot/lib/space_robot/cmake.lock /home/k/SpaceRobot/devel/lib/space_robot/cmake.lock
