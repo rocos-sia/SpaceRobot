@@ -209,5 +209,6 @@ include_directories(
 catkin_install_python(PROGRAMS
   src/switch_demo.py
   src/test.py
+  src/pose.py
   DESTINATION ${CATKIN_PACKAGE_BIN_DESTINATION}
 )

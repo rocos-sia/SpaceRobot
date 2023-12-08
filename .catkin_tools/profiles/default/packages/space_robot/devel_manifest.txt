@@ -6,3 +6,4 @@ space_robot
 /home/k/SpaceRobot/devel/.private/space_robot/lib/space_robot/test.py /home/k/SpaceRobot/devel/lib/space_robot/test.py
 /home/k/SpaceRobot/devel/.private/space_robot/lib/space_robot/switch_demo.py /home/k/SpaceRobot/devel/lib/space_robot/switch_demo.py
 /home/k/SpaceRobot/devel/.private/space_robot/lib/space_robot/cmake.lock /home/k/SpaceRobot/devel/lib/space_robot/cmake.lock
+/home/k/SpaceRobot/devel/.private/space_robot/lib/space_robot/pose.py /home/k/SpaceRobot/devel/lib/space_robot/pose.py
